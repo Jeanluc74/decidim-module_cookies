@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.email = ["quentin.champenois7@gmail.com"]
   s.license = "AGPL-3.0"
   s.homepage = "https://github.com/decidim/decidim-module-cookies"
-  s.required_ruby_version = ">= 2.5"
+  s.required_ruby_version = ">= 2.7"
 
   s.name = "decidim-cookies"
   s.summary = "A decidim cookies module"

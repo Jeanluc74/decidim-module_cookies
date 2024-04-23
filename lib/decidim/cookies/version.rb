@@ -4,7 +4,7 @@ module Decidim
   # This holds the decidim-meetings version.
   module Cookies
     def self.version
-      "0.24"
+      "0.25"
     end
   end
 end
